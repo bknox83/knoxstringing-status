@@ -28,26 +28,24 @@ With [Upptime][upptime-docs], you can get your own unlimited and free uptime mon
 - Code: [MIT][license] © [Anand Chowdhary][anand], supported by [Pabio][pabio]
 - Data in the `./history` directory: [Open Database License][odbl]
 
-[live-status]:           https://status.knoxstringing.com
-[website]:               https://knoxstringing.com
-[upptime-repo]:          https://github.com/upptime/upptime
-[upptime-docs]:          https://upptime.js.org
-[issues]:                https://github.com/bknox83/knoxstringing-status/issues
-[actions]:               https://github.com/bknox83/knoxstringing-status/actions
-[status-page]:           https://status.knoxstringing.com
-[license]:               ./LICENSE
-[anand]:                 https://anandchowdhary.com
-[pabio]:                 https://pabio.com
-[odbl]:                  https://opendatacommons.org/licenses/odbl/1-0/
-
-[uptime-ci-link]:        https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Uptime+CI%22
+[live-status]: https://status.knoxstringing.com
+[website]: https://knoxstringing.com
+[upptime-repo]: https://github.com/upptime/upptime
+[upptime-docs]: https://upptime.js.org
+[issues]: https://github.com/bknox83/knoxstringing-status/issues
+[actions]: https://github.com/bknox83/knoxstringing-status/actions
+[status-page]: https://status.knoxstringing.com
+[license]: ./LICENSE
+[anand]: https://anandchowdhary.com
+[pabio]: https://pabio.com
+[odbl]: https://opendatacommons.org/licenses/odbl/1-0/
+[uptime-ci-link]: https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Uptime+CI%22
 [response-time-ci-link]: https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Response+Time+CI%22
-[graphs-ci-link]:        https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Graphs+CI%22
-[static-site-ci-link]:   https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Static+Site+CI%22
-[summary-ci-link]:       https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Summary+CI%22
-
-[uptime-ci-badge]:        https://github.com/bknox83/knoxstringing-status/workflows/Uptime%20CI/badge.svg
+[graphs-ci-link]: https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Graphs+CI%22
+[static-site-ci-link]: https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Static+Site+CI%22
+[summary-ci-link]: https://github.com/bknox83/knoxstringing-status/actions?query=workflow%3A%22Summary+CI%22
+[uptime-ci-badge]: https://github.com/bknox83/knoxstringing-status/workflows/Uptime%20CI/badge.svg
 [response-time-ci-badge]: https://github.com/bknox83/knoxstringing-status/workflows/Response%20Time%20CI/badge.svg
-[graphs-ci-badge]:        https://github.com/bknox83/knoxstringing-status/workflows/Graphs%20CI/badge.svg
-[static-site-ci-badge]:   https://github.com/bknox83/knoxstringing-status/workflows/Static%20Site%20CI/badge.svg
-[summary-ci-badge]:       https://github.com/bknox83/knoxstringing-status/workflows/Summary%20CI/badge.svg
+[graphs-ci-badge]: https://github.com/bknox83/knoxstringing-status/workflows/Graphs%20CI/badge.svg
+[static-site-ci-badge]: https://github.com/bknox83/knoxstringing-status/workflows/Static%20Site%20CI/badge.svg
+[summary-ci-badge]: https://github.com/bknox83/knoxstringing-status/workflows/Summary%20CI/badge.svg
