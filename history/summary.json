@@ -1,20 +1,20 @@
 [
   {
-    "name": "Knox Racquet Stringing",
+    "name": "Knox Stringing",
     "url": "https://knoxstringing.com",
     "icon": "https://icons.duckduckgo.com/ip3/knoxstringing.com.ico",
-    "slug": "knox-racquet-stringing",
+    "slug": "knox-stringing",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 204,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
+    "time": 262,
+    "timeDay": 262,
+    "timeWeek": 262,
+    "timeMonth": 262,
+    "timeYear": 262,
     "dailyMinutesDown": {}
   }
 ]
