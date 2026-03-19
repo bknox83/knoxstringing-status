@@ -4,24 +4,24 @@ repo: knoxstringing-status # The name of this repository
 
 sites:
   - name: Knox Stringing
-    url: https://knoxstringing.com
+    url: https://www.knoxstringing.com
 
 status-website:
   cname: status.knoxstringing.com
   logoUrl: https://www.knoxstringing.com/assets/images/knox-logo.svg
   name: Knox Stringing Status
   introTitle: "**Knox Stringing** status"
-  introMessage: Live status for [knoxstringing.com](https://knoxstringing.com). Data is updated automatically from this [repository](https://github.com/bknox83/knoxstringing-status).
+  introMessage: Live status for [knoxstringing.com](https://www.knoxstringing.com). Data is updated automatically from this [repository](https://github.com/bknox83/knoxstringing-status).
   navbar:
     - title: Status
       href: /
     - title: Website
-      href: https://knoxstringing.com
+      href: https://www.knoxstringing.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
   sites:
     - name: Knox Stringing
-      url: https://knoxstringing.com
+      url: https://www.knoxstringing.com
       assignees:
         - bknox83
