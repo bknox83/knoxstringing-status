@@ -1,8 +1,8 @@
 [
   {
     "name": "Knox Stringing",
-    "url": "https://knoxstringing.com",
-    "icon": "https://icons.duckduckgo.com/ip3/knoxstringing.com.ico",
+    "url": "https://www.knoxstringing.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.knoxstringing.com.ico",
     "slug": "knox-stringing",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 265,
-    "timeDay": 336,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 253,
+    "timeDay": 237,
+    "timeWeek": 253,
+    "timeMonth": 253,
+    "timeYear": 253,
     "dailyMinutesDown": {}
   }
 ]
