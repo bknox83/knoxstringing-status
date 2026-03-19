@@ -29,7 +29,7 @@ With [Upptime][upptime-docs], you can get your own unlimited and free uptime mon
 - Data in the `./history` directory: [Open Database License][odbl]
 
 [live-status]: https://status.knoxstringing.com
-[website]: https://knoxstringing.com
+[website]: https://www.knoxstringing.com
 [upptime-repo]: https://github.com/upptime/upptime
 [upptime-docs]: https://upptime.js.org
 [issues]: https://github.com/bknox83/knoxstringing-status/issues
