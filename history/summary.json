@@ -4,17 +4,17 @@
     "url": "https://www.knoxstringing.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.knoxstringing.com.ico",
     "slug": "knox-stringing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 246,
-    "timeDay": 138,
-    "timeWeek": 199,
-    "timeMonth": 222,
-    "timeYear": 246,
+    "time": 247,
+    "timeDay": 210,
+    "timeWeek": 217,
+    "timeMonth": 226,
+    "timeYear": 247,
     "dailyMinutesDown": {}
   }
 ]
